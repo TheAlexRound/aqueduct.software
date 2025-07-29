@@ -385,7 +385,7 @@
                                             <div>
                                                 <div class="w-full justify-between flex mb-2 items-center">
                                                     <img class=" w-full max-w-32 " src="{{url('frontend/images/autovis.png')}}" alt="Feature 01">
-                                                    <a class="btn-sm text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(var(--color-slate-900),var(--color-slate-900))_padding-box,conic-gradient(var(--color-slate-400),var(--color-slate-700)_25%,var(--color-slate-700)_75%,var(--color-slate-400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none" href="/projects/autovis">
+                                                    <a class="btn-sm text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(var(--color-slate-900),var(--color-slate-900))_padding-box,conic-gradient(var(--color-slate-400),var(--color-slate-700)_25%,var(--color-slate-700)_75%,var(--color-slate-400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none" href="/projects/integrations/autotask-visma">
                                                         <span class="relative inline-flex items-center">
                                                             See Project <span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                                                         </span>
@@ -709,7 +709,7 @@
                     <p class="text-lg text-slate-400">Hear from our clients themselves - genuine feedback that reflects the ease, care and results we deliver with every project.</p>
                 </div>
                 <!-- Customers -->
-                <div class="grid lg:grid-cols-3 gap-4 sm:gap-6 max-w-xs mx-auto lg:max-w-none">
+                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 max-w-md mx-auto md:max-w-none">
                     <!-- Customer #01 -->
                     <div class="relative p-5 before:absolute before:inset-0 before:-z-10 before:border before:border-slate-300 before:bg-slate-700 before:opacity-10 before:rounded-xl">
                         <div class="flex items-center justify-between space-x-2 mb-4">

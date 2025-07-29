@@ -34,6 +34,18 @@ Route::get('/projects/integrations/shopify-spirec', function () {
     return view('projects.shopify-spirec');
 });
 
+Route::get('/projects/mera-konsult', function () {
+    return view('projects.mera-konsult');
+});
+
+Route::get('/projects/beachburgers', function () {
+    return view('projects.beachburgers');
+});
+
+Route::get('/projects/allroundcoaching', function () {
+    return view('projects.allroundcoaching');
+});
+
 Route::get('/method', function () {
     return view('method');
 });

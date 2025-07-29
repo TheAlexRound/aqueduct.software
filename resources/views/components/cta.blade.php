@@ -26,10 +26,29 @@
                         </div>
                         <h2 class="h2 text-slate-100 pb-4">Ready to automate busywork?</h2>
                         <p class="text-lg text-slate-400 mb-8">Not sure where to start? Let’s talk through some actionable ideas tailored to your business, no strings attached. Expect zero fluff, just useful advice and clarity on your next step.</p>
-                        <div>
-                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 group" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alex-aqueduct/discovery-call?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=9f7aea'});return false;">
-                                Book a free call<span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-                            </a>
+
+                        <div class="w-full flex flex-col items-center justify-center">
+                            <div class="bg-slate-900/40 p-6 space-y-4 pr-8 bg-clip-padding backdrop-filter backdrop-blur-md border  border-gray-100/20 rounded-3xl ">
+                                <div class="flex items-center justify-start w-full">
+                                    <img class="w-16 h-16 rounded-full mx-auto " src="{{ url('frontend/images/me.png') }}" alt="Alex">
+                                    <div class="w-full text-left pl-4">
+                                        <p class="text-md font-bold text-slate-100">Alexander Round</p>
+                                        <p class="text-md text-slate-400">CEO</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 group" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/alex-aqueduct/discovery-call?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=9f7aea'});return false;">
+                                        Book a call with me<span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="w-full text-center pb-2 pt-4 md:pb-2 md:pt-4">
+                                <div class="inline-flex font-medium bg-clip-text text-transparent bg-linear-to-r from-purple-500 to-purple-200 pb-3">or</div>
+                            </div>
+                            <div class="w-full grid grid-cols-1 md:grid-cols-2 divide-gray-100/20 md:divide-x">
+                                <p class="text-center md:text-right md:pr-4 text-slate-400">alex@aqueduct.software</p>
+                                <p class="text-center md:text-left md:pl-4 text-slate-400">+46 72 170 26 14</p>
+                            </div>
                         </div>
                     </div>
                 </div>

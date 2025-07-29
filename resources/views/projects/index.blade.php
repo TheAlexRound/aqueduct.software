@@ -408,7 +408,7 @@
                                         <h4 class="text-lg font-semibold text-slate-100 mb-2">merakonsult.se</h4>
                                         <div class="text-sm text-slate-400">A clean and professional website built for a accounting firm, highlighting their accounting services, pricing, and expertise, with a clear structure that makes it easy for clients to get in touch and stay informed.</div>
                                         <div class="mt-6">
-                                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="#0">
+                                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="/projects/mera-konsult">
                                                 See project <span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                                             </a>
                                         </div>
@@ -429,7 +429,7 @@
                                         <h4 class="text-lg font-semibold text-slate-100 mb-2">beachburgers.se</h4>
                                         <div class="text-sm text-slate-400">A vibrant and mobile-friendly website designed for a food truck and catering company, showcasing their menu, event services, and easy online contacting wrapped in a bold, appetizing design.</div>
                                         <div class="mt-6">
-                                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="#0">
+                                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="/projects/beachburgers">
                                                 See project <span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                                             </a>
                                         </div>
@@ -450,7 +450,7 @@
                                         <h4 class="text-lg font-semibold text-slate-100 mb-2">allroundcoaching.se</h4>
                                         <div class="text-sm text-slate-400">A calming and welcoming website created for a coaching and massage clinic, presenting their services, philosophy, and booking options with soothing visuals and a layout designed to inspire trust and relaxation.</div>
                                         <div class="mt-6">
-                                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="#0">
+                                            <a class="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="/projects/allroundcoaching">
                                                 See project <span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                                             </a>
                                         </div>
