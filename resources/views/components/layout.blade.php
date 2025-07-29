@@ -149,6 +149,15 @@
                             <li>
                                 <a class="text-slate-400 hover:text-slate-200 transition duration-150 ease-in-out" href="/method">Our Method</a>
                             </li>
+                                                        <li>
+                                <a class="btn-sm py-1 mt-2 hover:scale-103 text-slate-300 hover:text-white transition-all duration-300 ease-in-out group [background:linear-gradient(var(--color-slate-900),var(--color-slate-900))_padding-box,conic-gradient(var(--color-slate-400),var(--color-slate-700)_25%,var(--color-slate-700)_75%,var(--color-slate-400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/50 before:rounded-full before:pointer-events-none shadow-sm" href="https://g.co/kgs/4P7Gca7" target="_blank" rel="noopener">
+                                <div class="relative flex items-center flex-row text-white z-10 gap-3">
+                                    <img src="{{url('frontend/images/google.svg')}}" class="w-4 h-4 -mb-0.25" alt="google logo">
+                                    <h4 class="text-slate-300"><strong class="text-slate-100">5.0 </strong> rating</h4>
+                                    <span class="tracking-normal text-purple-500 transition-transform group-hover:translate-x-0.5 duration-150 ease-in-out">-&gt;</span>
+                                </div>
+                            </a>
+                            </li>
                         </ul>
                     </div>
 

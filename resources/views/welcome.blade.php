@@ -21,15 +21,17 @@
 
                 <!-- Hero content -->
                 <div class="max-w-3xl mx-auto text-center">
-                    <!--<div class="mb-6" data-aos="fade-down">
+                    <div class="mb-6" data-aos="fade-down">
                         <div class="inline-flex relative before:absolute before:inset-0 before:bg-purple-500 before:blur-md">
-                            <a class="btn-sm py-0.5 text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(var(--color-purple-500),var(--color-purple-500))_padding-box,linear-gradient(var(--color-purple-500),var(--color-purple-200)_75%,transparent_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/50 before:rounded-full before:pointer-events-none shadow-sm" href="#0">
-                                <span class="relative inline-flex items-center">
-                                    API Studio is now in beta <span class="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-                                </span>
+                            <a class="btn-sm py-1.5 hover:scale-103 text-slate-300 hover:text-white transition-all duration-300 ease-in-out group [background:linear-gradient(var(--color-purple-500),var(--color-purple-500))_padding-box,linear-gradient(var(--color-purple-500),var(--color-purple-200)_75%,transparent_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/50 before:rounded-full before:pointer-events-none shadow-sm" href="https://g.co/kgs/4P7Gca7" target="_blank" rel="noopener">
+                                <div class="relative flex items-center flex-row text-white z-10 gap-3">
+                                    <img src="{{url('frontend/images/google.svg')}}" class="w-6 h-6 -mb-0.25" alt="google logo">
+                                    <h4 class="text-slate-300"><strong class="text-slate-100">5.0 </strong> rating</h4>
+                                    <span class="tracking-normal text-purple-500 transition-transform group-hover:translate-x-0.5 duration-150 ease-in-out">-&gt;</span>
+                                </div>
                             </a>
                         </div>
-                    </div>-->
+                    </div>
                     <h1 class="h1 bg-clip-text text-transparent bg-linear-to-r from-slate-100/60 via-slate-200 to-slate-100/60 pb-4" data-aos="fade-down">Building custom software that <a class="bg-clip-text text-transparent bg-linear-to-r from-purple-400/90 via-pink-300 to-purple-400/90">eliminates</a> headache.</h1>
                     <p class="text-lg text-slate-300 mb-8" data-aos="fade-down" data-aos-delay="100">Custom-built to match your workflow, boost efficiency, and reduce daily stress — from concept to code, we turn complexity into clarity.</p>
                     <div class="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4" data-aos="fade-down" data-aos-delay="200">
